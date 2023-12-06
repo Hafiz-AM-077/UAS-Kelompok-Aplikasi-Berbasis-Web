@@ -9,3 +9,5 @@ Hafizd Arwaa Marden
 
 Note  :
 Folder css, db, fonts, img ada harud berada di dalam assets folder agar gambar dari database muncul
+
+struktur folder yang benar ada di dalam movierev.rar terima kasih.
